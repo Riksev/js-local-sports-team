@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/js-local-sports-team/static/css/main.4424ed33.css",
+    "main.js": "/js-local-sports-team/static/js/main.f245ceed.js",
+    "index.html": "/js-local-sports-team/index.html",
+    "main.4424ed33.css.map": "/js-local-sports-team/static/css/main.4424ed33.css.map",
+    "main.f245ceed.js.map": "/js-local-sports-team/static/js/main.f245ceed.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4424ed33.css",
+    "static/js/main.f245ceed.js"
+  ]
+}
